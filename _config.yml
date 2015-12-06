@@ -1,0 +1,14 @@
+layout_spectrum: 0.1433692
+typography_spectrum: 0.672043
+color:
+  saturation: 1
+  lightness: 0.4982079
+  brandStrength: 0
+  rhythmicContrast: 1
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Mind
